@@ -5,8 +5,8 @@ token : qBj4x2DjVmkGmlD
 loadsmtp : False
 smtpserv :  {mx}
 port : 25
-username : 
-password : 
+username :
+password :
 fromemail : 
 secure : False
 authy : False
